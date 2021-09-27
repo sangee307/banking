@@ -1,2 +1,2 @@
-# banking
+# Banking
 Online Banking Application
